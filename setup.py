@@ -1,6 +1,8 @@
 from setuptools import setup, find_packages
 from typing import List
 
+
+
 def get_requirements(file_path: str) -> List[str]:
     '''
     this function will return a list of requirements
@@ -11,6 +13,7 @@ def get_requirements(file_path: str) -> List[str]:
         requirements = [req.replace('\n', '') for req in requirements]
         if '-e .' in requirements:
             requirements.remove('-e .')
+               
     return requirements
 
 setup(
