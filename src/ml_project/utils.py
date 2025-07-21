@@ -6,6 +6,9 @@ import pandas as pd
 from dotenv import load_dotenv
 import pymysql
 
+import pickle
+import numpy as np
+
 load_dotenv()
 
 host = os.getenv("host")
@@ -29,3 +32,18 @@ def read_sql_data():
     
     except Exception as e:
         raise CustomException(e)
+    
+def save_object(file_path, obj):
+    """
+    Saves the object as a pickle file at the specified file path.
+    """
+    try:
+        
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        with open(file_path, 'wb') as file_obj:
+            pickle.dump(obj, file_obj)
+            
+        logging.info(f"Object saved at {file_path}")
+    
+    except Exception as e:
+        raise CustomException(e, sys)       
