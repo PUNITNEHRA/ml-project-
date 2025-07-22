@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/418911f9613b43cfbb53240fd8b929fe/artifacts
+end_time: 1753164652149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 418911f9613b43cfbb53240fd8b929fe
+run_name: rumbling-eel-576
+run_uuid: 418911f9613b43cfbb53240fd8b929fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753164652039
+status: 4
+tags: []
+user_id: root

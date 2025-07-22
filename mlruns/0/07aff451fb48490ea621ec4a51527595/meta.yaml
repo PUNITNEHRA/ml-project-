@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/07aff451fb48490ea621ec4a51527595/artifacts
+end_time: 1753165870736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07aff451fb48490ea621ec4a51527595
+run_name: rogue-mule-421
+run_uuid: 07aff451fb48490ea621ec4a51527595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753165859878
+status: 3
+tags: []
+user_id: root

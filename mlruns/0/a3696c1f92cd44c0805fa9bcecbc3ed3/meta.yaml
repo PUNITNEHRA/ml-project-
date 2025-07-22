@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/a3696c1f92cd44c0805fa9bcecbc3ed3/artifacts
+end_time: 1753165160779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3696c1f92cd44c0805fa9bcecbc3ed3
+run_name: peaceful-asp-861
+run_uuid: a3696c1f92cd44c0805fa9bcecbc3ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753165160662
+status: 4
+tags: []
+user_id: root

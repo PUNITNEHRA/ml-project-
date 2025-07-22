@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/9206f43e867a44808924287c0f8caff2/artifacts
+end_time: 1753165529778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9206f43e867a44808924287c0f8caff2
+run_name: ambitious-hawk-269
+run_uuid: 9206f43e867a44808924287c0f8caff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753165520774
+status: 4
+tags: []
+user_id: root

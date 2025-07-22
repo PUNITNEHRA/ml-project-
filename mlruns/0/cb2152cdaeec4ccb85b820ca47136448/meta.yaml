@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/cb2152cdaeec4ccb85b820ca47136448/artifacts
+end_time: 1753163775042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2152cdaeec4ccb85b820ca47136448
+run_name: sassy-squirrel-171
+run_uuid: cb2152cdaeec4ccb85b820ca47136448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753163774948
+status: 4
+tags: []
+user_id: root

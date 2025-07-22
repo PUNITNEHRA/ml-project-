@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/672f4e5db4c340518ed522427155edd0/artifacts
+end_time: 1753163918315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 672f4e5db4c340518ed522427155edd0
+run_name: abundant-rook-115
+run_uuid: 672f4e5db4c340518ed522427155edd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753163918192
+status: 4
+tags: []
+user_id: root

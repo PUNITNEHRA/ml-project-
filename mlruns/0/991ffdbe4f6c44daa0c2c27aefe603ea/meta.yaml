@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/991ffdbe4f6c44daa0c2c27aefe603ea/artifacts
+end_time: 1753163837575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 991ffdbe4f6c44daa0c2c27aefe603ea
+run_name: legendary-worm-176
+run_uuid: 991ffdbe4f6c44daa0c2c27aefe603ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753163837482
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/punit/Desktop/ML%20Project/mlruns/0/ca81d009e9d9406f9194c2a10a65adfa/artifacts
+end_time: 1753170536231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca81d009e9d9406f9194c2a10a65adfa
+run_name: worried-yak-392
+run_uuid: ca81d009e9d9406f9194c2a10a65adfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753170525507
+status: 3
+tags: []
+user_id: root
